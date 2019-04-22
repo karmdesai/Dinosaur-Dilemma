@@ -1,0 +1,8 @@
+Bowser snarls, 'You've been creating a lot of trouble for me but I'll be sure
+ to put an end to that soon enough. Right now, you're at the start of my 
+'Warp Path,' and I'm waiting for you at the end. 
+You have to roll and die and according to that, you'll move forward. 
+If you land on certain squares, you'll move forward a few steps closer to me. 
+However, if you land on certain other squares, you'll have to move backward. 
+On the way, you'll have to answer some mathematics questions to proceed. 
+I'll see you at the end, Yoshi.'

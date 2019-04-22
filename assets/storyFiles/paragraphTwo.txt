@@ -1,0 +1,7 @@
+Like any other day, you are on your way to Dinosaur School. 
+You're excited to go to school today because your teacher, Mister C, 
+is going to teach you about programming in Java! While you're walking, 
+you notice an object in the sky. You ask your best friend, who's walking 
+beside you, 'Do you see that? In the air?' He responds with 'Hmm... I don't
+see anything. Maybe you're just sleep deprived.' 
+Since you agree with him, you keep walking.

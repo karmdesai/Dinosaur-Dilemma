@@ -1,0 +1,9 @@
+Congratulations, the horde of Koopas ran away and now you're free to explore
+the mystic cave. As you look around, you realize that this place has been 
+safeguarded by the Kingdom Elders for a very long time. They always talked about 
+how there was some sort of powerful item inside the cave; if it got into the wrong 
+hands, it could be very dangerous. After a bit more scouting, you discover a shiny, 
+spherical object. 'Could this be the powerful item?' you ask yourself. Suddenly, 
+some text engraved onto the cave wall starts to glow... It reads 'You have the 
+magical fortune orb. Shake it and you will randomly receive a strong power-up that 
+will be of great use.'

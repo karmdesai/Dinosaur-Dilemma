@@ -1,0 +1,6 @@
+Bowser says 'I see that you're here, Yoshi. No more wasting time, 
+let's get right into it. I have five lives. You'll have to answer some multiple
+choice trivia questions. If you get a question right, I will lose one life. 
+However, if you incorrectly answer even one question, YOU will all your lives!' 
+This is your final challenge... 
+Are you ready? Go!
