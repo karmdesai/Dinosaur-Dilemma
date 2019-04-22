@@ -1,7 +1,4 @@
 # Dinosaur-Dilemma
-🐉 A text-based role-playing game (RPG) coded in Java.
-  
-  
 Dinosaur-Dilemma is a text-based RPG based on one of Nintendo's Adventure Books.
 The plot follows a dinosaur named Yoshi who must defeat Bowser in order to save
 his friends and family. The game was assigned as coursework for the MYP Grade 10
