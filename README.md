@@ -8,6 +8,7 @@ Computer Science course, which is taught in Java.
 ```sh
 $ git clone https://github.com/karmdesai/Dinosaur-Dilemma.git
 $ cd Dinosaur-Dilemma
+$ cd src
 $ javac DinosaurDilemma.java
 $ java DinosaurDilemma
 ```
