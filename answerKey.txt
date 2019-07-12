@@ -1,64 +1,66 @@
 
+Answer Key - Dinosaur Dilemma
+
 1. PASSWORD ENTRY
    --------------
-   • The password is: "password" (no quotation marks).
+   ï¿½ The password is: "password" (no quotation marks).
 
 
 2. SHELL-FLOWER-MUSHROOM
    ---------------------
-   • Shell-Flower-Mushroom is a game like rock-paper-scissors.
-   • Shell beats flower, flower beats mushroom, and mushroom beats shell.
-   • The first player to three points wins.
-   • The computer randomly chooses what to play so there is no pre-determined answer.
+   ï¿½ Shell-Flower-Mushroom is a game like rock-paper-scissors.
+   ï¿½ Shell beats flower, flower beats mushroom, and mushroom beats shell.
+   ï¿½ The first player to three points wins.
+   ï¿½ The computer randomly chooses what to play so there is no pre-determined answer.
 
 
 3. MATH QUESTIONS
    ---------------------
-   • You have to answer 3 math questions in a row.
-   • The computer randomly chooses the integers, so there is no pre-determined answer.
-   • The integers can be decently large, so have a calculator handy!
+   ï¿½ You have to answer 3 math questions in a row.
+   ï¿½ The computer randomly chooses the integers, so there is no pre-determined answer.
+   ï¿½ The integers can be decently large, so have a calculator handy!
 
 
 4. MAGICAL ORB
    ---------------------
-   • Just enter "Shake" and you'll get a random power-up.
+   ï¿½ Just enter "Shake" and you'll get a random power-up.
 
 
 5. BOB-OMB BLAST
    ---------------------
-   • Bob-Omb Blast is a game like Blackjack.
-   • The cards are distributed at random.
-   • You can choose when to "hit" but there is no pre-determined answer.
+   ï¿½ Bob-Omb Blast is a game like Blackjack.
+   ï¿½ The cards are distributed at random.
+   ï¿½ You can choose when to "hit" but there is no pre-determined answer.
 
 
 5. WARP PATH
    ---------------------
-   • The Warp Path is like Snakes and Ladders.
-   • You will start off at position 1 and you need to get to position 11.
-   • Enter "roll" to roll a 3-sided die.
-   • Certain squares will move you forward while others will move you back.
-   • There will be random math questions along the way.
-   • There is no pre-determined answer.
+   ï¿½ The Warp Path is like Snakes and Ladders.
+   ï¿½ You will start off at position 1 and you need to get to position 11.
+   ï¿½ Enter "roll" to roll a 3-sided die.
+   ï¿½ Certain squares will move you forward while others will move you back.
+   ï¿½ There will be random math questions along the way.
+   ï¿½ There is no pre-determined answer.
 
 
 6. TRIVIA QUESTIONS
    ---------------------
-   • Final challenge.
-   • Bowser has five lives.
-   • For every trivia question answered correctly, he will lose a life.
-   • If you get a single question incorrect, you will lose the entire game.
+   ï¿½ Final challenge.
+   ï¿½ Bowser has five lives.
+   ï¿½ For every trivia question answered correctly, he will lose a life.
+   ï¿½ If you get a single question incorrect, you will lose the entire game.
 
-   • Question One: Where were Mario and Luigi born?
-	• Answer One: "a" (no quotations)
+   ï¿½ Question One: Where were Mario and Luigi born?
+	ï¿½ Answer One: "a" (no quotations)
 
-   • Question Two: Where was the Warp Whistle in Super Mario 3 originally from?
-	• Answer Two: "b" (no quotations)
+   ï¿½ Question Two: Where was the Warp Whistle in Super Mario 3 originally from?
+	ï¿½ Answer Two: "b" (no quotations)
 
-   • Question Three: In which game did Mario first appear?
-	• Answer Three: "c" (no quotations)
+   ï¿½ Question Three: In which game did Mario first appear?
+	ï¿½ Answer Three: "c" (no quotations)
 
-   • Question Four: Mario's first 3D platformer game is?
-	• Answer Four: "a" (no quotations)
+   ï¿½ Question Four: Mario's first 3D platformer game is?
+	ï¿½ Answer Four: "a" (no quotations)
 
-   • Question Five: What year was I (Bowser) created?
-	• Answer Five: "a" (no quotations)
+   ï¿½ Question Five: What year was I (Bowser) created?
+	ï¿½ Answer Five: "a" (no quotations)
